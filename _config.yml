@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: "https://uknowsj.github.io"
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -110,3 +110,5 @@ plugins:
 
 jekyll-mentions:
     base_url: https://github.com
+   
+remote_theme : sergiokopplin/indigo
