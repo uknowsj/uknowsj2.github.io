@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: SJ Yang
+bio: A Student who just started learning coding.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -17,6 +17,7 @@ resume-external: true
 resume-url: https://google.com/?q=my+resume
 
 url: "https://uknowsj.github.io"
+baseurl: ""
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -42,7 +43,7 @@ twitter: mytwitter
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: uknowsj
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,7 +52,7 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: uknowsj@gmail.com
 
 authors:
     johndoe:
