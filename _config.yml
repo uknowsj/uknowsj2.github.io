@@ -6,8 +6,8 @@
 title: YANG NANI's Blog
 email: 
 description: A simple and awesome blog theme powered by jekyll.
-url: uknowsj.github.io
-baseurl : ""
+url: ""
+baseurl : uknowsj.github.io
 keywords: ["blog", "jekyll"]
 
 #
