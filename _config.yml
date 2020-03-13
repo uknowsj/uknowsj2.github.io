@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
+title: YANG NANI's Blog
+email: 
+description: 개발자가 되고 싶은 학생
 url: uknowsj.github.io
 keywords: ["blog", "jekyll"]
 
@@ -14,7 +14,7 @@ keywords: ["blog", "jekyll"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Asia/Seoul
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,14 +33,14 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: YANG NANI
   avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  job: "개발자가 되고싶은 학생"
+  bio: "1년 뒤에는 직장인..!!"
   email:
   disqus-shortname:
   twitter: #username
-  facebook: #username
+  facebook: uknowsj
   google:
     plus: #username
     analytics:
