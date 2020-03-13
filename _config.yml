@@ -35,12 +35,12 @@ kramdown:
 owner:
   name: YANG NANI
   avatar: leonids-logo.png
-  job: "개발자가 되고싶은 학생"
-  bio: "1년 뒤에는 직장인..!!"
+  job: "A jekyll theme"
+  bio: "A simple and awesome blog theme powered by jekyll."
   email:
   disqus-shortname:
   twitter: #username
-  facebook: uknowsj
+  facebook: #username
   google:
     plus: #username
     analytics:
